@@ -1,6 +1,5 @@
 # About Me
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
 This is my sumbmission for assigment 1 for CSE4500 course, where I create an html and css file for a website page, that meets the requirements specified bellow.
 
 Time spent: 3 hours spent in total
