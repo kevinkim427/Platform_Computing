@@ -13,6 +13,7 @@ body {
     background-color: rgb(33, 203, 241); /* Dark background color */
     color: #ffffff; /* White text color */
     font-family:'Courier New', Courier, monospace; /* Specify your font */
+    background-image: url("bg.jpg");
 }
 
 .hobbies {
