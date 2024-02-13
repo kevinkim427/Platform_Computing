@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 
 <img src="ss1.png" title='screenshot 1' width='' alt='ss1' />
 <img src="ss2.png" title='screenshot 2' width='' alt='ss2' />
-<gif src="repobutton.gif" title='button demo' width='' alt='bd'>
+<gif src="repobutton.gif" title='button demo' width='' alt='bd'/>
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
