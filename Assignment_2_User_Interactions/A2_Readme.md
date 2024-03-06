@@ -23,7 +23,8 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="/images/About_Me_on_React1.png" title='react1' width='' alt='r1' />
+<img src="./images/About_Me_on_React1.png" title='screenshot 1' width='' alt='ss1' />
+
 
 
 ## Notes:
