@@ -24,7 +24,11 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 <img src="./images/About_Me_on_React1.png" title='screenshot 1' width='' alt='ss1' />
-
+<img src="./images/About_Me_on_React2.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/About_Me_on_React3.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/metric_tracker_output1.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/metric_tracker_output2.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/selenium_tutorial_output.png" title='screenshot 1' width='' alt='ss1' />
 
 
 ## Notes:
