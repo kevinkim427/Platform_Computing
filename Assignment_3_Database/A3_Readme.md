@@ -22,7 +22,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="./images/metricsdb.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/mgtutorial.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/server.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/sqltutorial.png" title='screenshot 1' width='' alt='ss1' />
 
 
 ## Notes:
