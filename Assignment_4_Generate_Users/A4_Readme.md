@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 <img src="./images/keyword_output.png" title='screenshot 1' width='' alt='ss1' />
-<img src="./images/iamge_output.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/image_output.png" title='screenshot 1' width='' alt='ss1' />
 <img src="./images/link_output.png" title='screenshot 1' width='' alt='ss1' />
 <img src="./images/unique_output.png" title='screenshot 1' width='' alt='ss1' />
 
