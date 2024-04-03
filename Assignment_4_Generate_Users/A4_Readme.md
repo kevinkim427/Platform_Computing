@@ -8,21 +8,25 @@ Time spent: **NUMBER_HOURS_SPENT** hours spent in total
 
 The following **required** features are completed:
 
-- [ ] Organize Github folders (2 pts)
-- [ ] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
-- [ ] Create a user with affinity towards image(s) and verify that it works (3 pts)
-- [ ] Create a user with affinity towards links and verify that it works (3 pts)
-- [ ] Describe a user with unique affinities (1 pt)
-- [ ] Create a user with unique affinities and verify that it works (3 pts)
+- [x] Organize Github folders (2 pts)
+- [x] Create a user with affinity towards keyword(s) and verify that it works (3 pts)
+- [x] Create a user with affinity towards image(s) and verify that it works (3 pts)
+- [x] Create a user with affinity towards links and verify that it works (3 pts)
+- [x] Describe a user with unique affinities (1 pt)
+- [x] Create a user with unique affinities and verify that it works (3 pts)
 The following **bonus** features are implemented:
 
-- [ ] Create a unique user with an affinity OUTSIDE of keywords, images, or links (1.5 pt)
+- [x] Create a unique user with an affinity OUTSIDE of keywords, images, or links (1.5 pt)
+- [x] The unique user scrolls to the bottom and top of the webpage, both action increments the presence time.
 - [ ] Uploaded files for a unique user BOTH in javascript and python (1.5 pt)
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="./images/keyword_output.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/iamge_output.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/link_output.png" title='screenshot 1' width='' alt='ss1' />
+<img src="./images/unique_output.png" title='screenshot 1' width='' alt='ss1' />
 
 
 ## Notes:
